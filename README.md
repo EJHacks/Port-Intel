@@ -21,9 +21,10 @@ By using Port Intel, you agree to the following:
 
 1. You will only scan systems **you own** or have **explicit permission** to test.
 2. You will not use this software to perform **unauthorized scanning**, **DDoS attacks**, or any form of **network intrusion**.
-3. You accept full responsibility for all activities you perform using this tool.
+3. When you use this service you are agreeing to the following Terms of Service 
+4. You accept full responsibility for all activities you perform using this tool.
 
-The developer Eric Edwards is **not responsible** for any misuse, damage, or legal consequences resulting from unauthorized usage. What ever you do is on your own you have been warned.
+The developer Eric Edwards is **not responsible** for any misuse, damage, or legal consequences resulting from unauthorized usage.
 
 ---
 
