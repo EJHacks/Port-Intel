@@ -19,12 +19,12 @@ Port Intel is a lightweight and powerful SaaS tool designed to help users monito
 
 By using Port Intel, you agree to the following:
 
-1. You will only scan systems **you own** or have **explicit permission** to test.
-2. You will not use this software to perform **unauthorized scanning**, **DDoS attacks**, or any form of **network intrusion**.
-3. When you use this service you are agreeing to the following Terms of Service 
-4. You accept full responsibility for all activities you perform using this tool.
+1. You will only scan systems **you own** or have **explicit written permission** to test.
+2. You will not use this software to perform **unauthorized scanning**, **denial-of-service attacks**, or any form of **unauthorized network intrusion**.
+3. By using this service, you agree to abide by our [Terms of Service](./TOS.md) *(coming soon)*.
+4. You accept full responsibility for all activities conducted using this tool.
 
-The developer Eric Edwards is **not responsible** for any misuse, damage, or legal consequences resulting from unauthorized usage.
+The developer, **Eric Edwards**, is **not responsible** for any misuse, damage, or legal consequences resulting from unauthorized use.
 
 ---
 
@@ -48,5 +48,7 @@ For questions, support, or feature requests, reach out via:
 - Email: youremail@example.com
 
 ---
+
+> ⚠️ **Note:** Port Intel is currently in the MVP (Minimum Viable Product) stage. Expect rapid changes, limited features, and possible bugs as we develop and improve the platform.
 
 
